@@ -1,0 +1,29 @@
+html {
+    background-color: rgb(252, 159, 187);
+}
+
+.titulo {
+    text-align: center;
+    color: rgb(153, 11, 118);
+    font-family: "Kalnia Glaze", serif;
+}
+
+.subtitulo {
+    color: #dd1378;
+    font-family: "Rubik Spray Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.mango {
+    color: #dd1378;
+    font-family: "Rubik Spray Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.fresas {
+
+}
+.albun1{
+    margin-right: 100px;
+}
